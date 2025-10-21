@@ -4,7 +4,7 @@ Lilian, 23 ans - j'ai presque fini mes études de game dev.
 
 ### 🔭 À propos de moi
 
-Je développe actuellement un RPG ambitieux. J'aime apprendre de nouvelles technologies et partager mes connaissances avec la communauté.
+Je développe actuellement un ACTION RPG ambitieux. J'aime apprendre de nouvelles technologies et partager mes connaissances avec la communauté.
 
 ### 🌱 Mon parcours
 
