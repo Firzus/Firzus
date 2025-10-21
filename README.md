@@ -29,6 +29,7 @@ Je développe actuellement un RPG ambitieux. J'aime apprendre de nouvelles techn
 - Nuqs
 - Zustand
 - Zod
+- TanStack Query
 
 **Outils:**
 
