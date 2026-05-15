@@ -4,7 +4,7 @@ Game developer, 24 ans, basé en France. Je finis mes études et je construis
 [Lysandra](https://lysandra.faill.studio), un Action RPG, sous le label Faill Studio.
 
 À côté, depuis bientôt 2 ans, je développe des outils et des sites web avec
-[Huz](https://www.youtube.com/@Huzounet) — du fansite Dofus aux jeux multi en
+[Huz](https://www.thenode.gg/talent/huzounet) — du fansite Dofus aux jeux multi en
 ligne.
 
 ### Projets
