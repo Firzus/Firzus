@@ -1,6 +1,6 @@
 # Lilian Prieu
 
-Game developer, 24 ans, basé en France. Je finis mes études et je construis
+Game developer, 24 ans, basé en France. Je finis mes études et je développe
 [Lysandra](https://lysandra.faill.studio), un Action RPG, sous le label Faill Studio.
 
 À côté, depuis bientôt 2 ans, je développe des outils et des sites web avec
@@ -10,17 +10,16 @@ ligne.
 ### Projets
 
 - **[Lysandra](https://lysandra.faill.studio)** — Action RPG (Unreal Engine, C++). En développement.
-- **[vm](https://github.com/Firzus/vm)** — Sandbox multi-VM Ubuntu en Docker, pilotée par un contrôleur Next.js et un serveur MCP, accès noVNC dans le navigateur.
-- **[claude-code-to-cursor](https://github.com/Firzus/claude-code-to-cursor)** — Proxy self-hosted qui route Cursor à travers une session Claude Code (Anthropic + OpenAI-compatible, Convex, tunnel Cloudflare).
+- **[codex-cursor-proxy](https://github.com/Firzus/codex-cursor-proxy)** — Proxy local OpenAI-compatible pour utiliser un abonnement ChatGPT Plus/Pro Codex depuis Cursor.
 - **[agent-skills](https://github.com/Firzus/agent-skills)** — Agent Skills communautaires pour Claude Code, Cursor, Codex et 50+ assistants IA.
 - **[who-is-the-impostor](https://imposteur.huzounet.fr)** — Jeu web multi pour la commu de Huz. [Code](https://github.com/Firzus/who-is-the-impostor).
 - **[Portfolio](https://lprieu.dev)** — [Code](https://github.com/Firzus/portfolio-website).
 
-### Stack
+### Agentic coding
 
-- **Jeu** — Unreal Engine, Unity, C++, C#
-- **Web** — TypeScript, Next.js, Tailwind, shadcn/ui, PayloadCMS, TanStack Query, Zustand, Zod, nuqs
-- **Infra / outils** — Docker, Convex, Cloudflare, Git, Cursor, Figma
+- **Principalement Cursor** — agents, MCP, rules, skills, workflows de dev assisté par IA
+- **Écosystème agents** — Codex, Claude Code, OpenAI-compatible APIs, outils locaux et proxies
+- **Build** — TypeScript, Next.js, Tailwind, shadcn/ui, Unreal Engine, C++, C#
 
 ### Contact
 
