@@ -19,7 +19,7 @@ ligne.
 
 - **Principalement Cursor** — agents, MCP, rules, skills, workflows de dev assisté par IA
 - **Écosystème agents** — Codex, Claude Code, OpenAI-compatible APIs, outils locaux et proxies
-- **Build** — TypeScript, Next.js, Tailwind, shadcn/ui, Unreal Engine, C++, C#
+- **Build** — TypeScript, Rust, C++, C#
 
 ### Contact
 
