@@ -13,7 +13,6 @@ ligne.
 - **[codex-cursor-proxy](https://github.com/Firzus/codex-cursor-proxy)** — Proxy local OpenAI-compatible pour utiliser un abonnement ChatGPT Plus/Pro Codex depuis Cursor.
 - **[agent-skills](https://github.com/Firzus/agent-skills)** — Agent Skills communautaires pour Claude Code, Cursor, Codex et 50+ assistants IA.
 - **[who-is-the-impostor](https://imposteur.huzounet.fr)** — Jeu web multi pour la commu de Huz. [Code](https://github.com/Firzus/who-is-the-impostor).
-- **[Portfolio](https://lprieu.dev)** — [Code](https://github.com/Firzus/portfolio-website).
 
 ### Agentic coding
 
@@ -23,4 +22,4 @@ ligne.
 
 ### Contact
 
-[lprieu.dev](https://lprieu.dev/) · [LinkedIn](https://www.linkedin.com/in/lilian-prieu-554058221/) · [lprieu.dev@gmail.com](mailto:lprieu.dev@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/lilian-prieu-554058221/) · [lprieu.dev@gmail.com](mailto:lprieu.dev@gmail.com)
